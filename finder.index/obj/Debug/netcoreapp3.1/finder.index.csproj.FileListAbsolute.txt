@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\projects\index.finder\finder.index\finder.index\bin\Debug\netcoreapp3.1\finder.index.exe
+C:\Users\User\Desktop\projects\index.finder\finder.index\finder.index\bin\Debug\netcoreapp3.1\finder.index.deps.json
+C:\Users\User\Desktop\projects\index.finder\finder.index\finder.index\bin\Debug\netcoreapp3.1\finder.index.runtimeconfig.json
+C:\Users\User\Desktop\projects\index.finder\finder.index\finder.index\bin\Debug\netcoreapp3.1\finder.index.runtimeconfig.dev.json
+C:\Users\User\Desktop\projects\index.finder\finder.index\finder.index\bin\Debug\netcoreapp3.1\finder.index.dll
+C:\Users\User\Desktop\projects\index.finder\finder.index\finder.index\bin\Debug\netcoreapp3.1\finder.index.pdb
+C:\Users\User\Desktop\projects\index.finder\finder.index\finder.index\obj\Debug\netcoreapp3.1\finder.index.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\projects\index.finder\finder.index\finder.index\obj\Debug\netcoreapp3.1\finder.index.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\projects\index.finder\finder.index\finder.index\obj\Debug\netcoreapp3.1\finder.index.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\projects\index.finder\finder.index\finder.index\obj\Debug\netcoreapp3.1\finder.index.AssemblyInfo.cs
+C:\Users\User\Desktop\projects\index.finder\finder.index\finder.index\obj\Debug\netcoreapp3.1\finder.index.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\projects\index.finder\finder.index\finder.index\obj\Debug\netcoreapp3.1\finder.index.dll
+C:\Users\User\Desktop\projects\index.finder\finder.index\finder.index\obj\Debug\netcoreapp3.1\finder.index.pdb
+C:\Users\User\Desktop\projects\index.finder\finder.index\finder.index\obj\Debug\netcoreapp3.1\finder.index.genruntimeconfig.cache
